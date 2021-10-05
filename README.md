@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  ![hagulu](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=haguludeveloper&fontSize=90)
+ ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=hagulu%20developer&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
   
    
 ## 📧 Contact  
@@ -20,8 +20,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dulumary&&show_icons=true&theme=default)
 
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dulumary&&show_icons=true&theme=default)
+
 
