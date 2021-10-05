@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  ![hagulu](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hagulu developer&fontSize=90)
+  ![hagulu](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=haguludeveloper&fontSize=90)
   
    
 ## 📧 Contact  
