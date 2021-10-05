@@ -7,7 +7,7 @@
 ### 📧 Contact  
 
 [![mail](https://img.shields.io/badge/lecture@hagulu.com-EA4335?style=flat-square&logo=GMail&logoColor=white)](mailto:lecture@hagulu.com)
- [![blog](https://img.shields.io/badge/Blog-EA4335?style=flat-square&logo=Blog&logoColor=white)](hagulu.com)
+ [![blog](https://img.shields.io/badge/Blog-EA4335?style=flat-square&logo=Blog&logoColor=white)](http://hagulu.com)
 
 ### 💪 Skill
 
