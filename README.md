@@ -1,14 +1,15 @@
 
 <div align="center">
 
- ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=hagulu%20developer&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=hagulu%20developer&fontSize=80&animation=fadeIn&fontAlignY=38)
   
    
-## 📧 Contact  
+### 📧 Contact  
 
-[![mail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=GMail&logoColor=white)](mailto:lecture@hagulu.com)
+[![mail](https://img.shields.io/badge/lecture@hagulu.com-EA4335?style=flat-square&logo=GMail&logoColor=white)](mailto:lecture@hagulu.com)
+ [![blog](https://img.shields.io/badge/Blog-EA4335?style=flat-square&logo=Blog&logoColor=white)](hagulu.com)
 
-## 💪 Skill
+### 💪 Skill
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
