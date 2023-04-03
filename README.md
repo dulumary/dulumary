@@ -3,6 +3,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=hagulu%20developer&fontSize=80&animation=fadeIn&fontAlignY=38)
   
+### 👍 머무르지 않고, 항상 움직이는 개발자
+### 🏃‍♂️  전진만 이 아니라 어떤 방향으로든 변화할 수 있는 개발자
+   
    
 ### 📧 Contact  
 
